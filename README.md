@@ -32,3 +32,7 @@ npm run build:linux # Linux build
 ```
 
 After building, you should see the executable inside of the `dist` directory.
+
+## Future Plans (maybe...)
+
+- Provide a field to allow users to just pass in their client credentials, no need to build them in directly.
